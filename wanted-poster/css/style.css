@@ -111,7 +111,9 @@ h5 {
     text-align: center;
 }
 
-
+.span{
+    padding: 0 .5rem;
+}
 /* Section & Paragraph */
 section {
     margin-top: .5rem;

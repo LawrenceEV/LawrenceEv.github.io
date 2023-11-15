@@ -178,6 +178,10 @@ nav a {
     margin-bottom: 1.5rem;
     border: solid .0625rem #33658A;
 }
+nav a :hover {
+    background-color: #33658A;
+    color: #fff;
+}
 
 
 

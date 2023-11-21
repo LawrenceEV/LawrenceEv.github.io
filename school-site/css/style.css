@@ -204,7 +204,9 @@ nav a :hover {
 
 /* Footer Styles */
 
-
+footer {
+    text-align: center;
+}
 
 
 

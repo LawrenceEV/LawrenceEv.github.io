@@ -48,4 +48,98 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+@font-face {
+   font-family:;
+}
+@font-face{
+    font-family:;
+}
+html{
 
+}
+body{
+
+}
+main{
+
+}
+ul{
+
+}
+img{
+
+}
+a{
+
+}
+/*Section*/
+.main-section{
+    display:flex;
+}
+article{
+    width: 75%;
+}
+.article-image{
+    float: left;
+    margin: 0 1rem 0 0;
+}
+.article-image + p {
+    margin-top: 0;
+}
+.subsection {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+    grid-column-gap: 1%;
+}
+.subsection figure {
+    padding: 0;
+    margin: 0;
+    background-color: #eed;
+}
+.subsection figcaption {
+    font-size: .75rem;
+    padding: .75rem;
+}
+.subsection img {
+    padding-bottom: 1%;
+    min-width: 5rem;
+}
+
+/*Sidebar*/
+aside{
+    clear: both;
+    width:19%;
+    margin-left: 3%;
+    padding-left: 3%;
+    border-left: .0625rem solid #333;
+}
+aside p{
+
+}
+.expand {
+
+}
+button {
+
+}
+button a{
+    
+}
+/*footer*/
+footer{
+    margin: 6rem auto .5rem auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1%;
+}
+footer :nth-child(2) {
+    text-align: right;
+}
+footer a {
+ font-family: ubuntu, serif;
+ color: #6f7d77
+}

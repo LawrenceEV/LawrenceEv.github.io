@@ -193,12 +193,12 @@ footer a {
  color: #6f7d77
 }
 /*Nav*/
-a {
+nav a {
     font-family: Ultra, serif;
     font-size: 1.25rem;
     color: #27476e;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     text-decoration: none;
-    
+    border-bottom: .0625rem solid #333;
 }

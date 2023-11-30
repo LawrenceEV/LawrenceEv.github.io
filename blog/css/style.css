@@ -103,18 +103,7 @@ h1{
     color: peachpuff;
     
  }
-/*Nav*/
-a {
-    font-family: Ultra, serif;
-    font-size: 1.25rem;
-    color: #27476e;
-    border-top: .0625 solid #333;
-    border-bottom: .0625rem solid #333;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    text-decoration: none;
-    
-}
+
 /*Section*/
 
 .main-section{
@@ -199,4 +188,16 @@ footer :nth-child(2) {
 footer a {
  font-family: ubuntu, serif;
  color: #6f7d77
+}
+/*Nav*/
+a {
+    font-family: Ultra, serif;
+    font-size: 1.25rem;
+    color: #27476e;
+    border-top: .0625 solid #333;
+    border-bottom: .0625rem solid #333;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    text-decoration: none;
+    
 }

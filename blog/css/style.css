@@ -91,6 +91,14 @@ img{
 a{
     text-decoration: none;
 }
+/*Header*/
+h1{
+    font-size: 2rem;
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    padding: 25% auto 25% auto;
+}
+/*Nav*/
 
 /*Section*/
 

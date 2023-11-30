@@ -98,6 +98,11 @@ h1{
     font-style: normal;
     text-align: center;
 }
+.highlight {
+    background-color: aqua;
+    background: .25rem;
+    background-size: .25rem, .25rem;
+ }
 /*Nav*/
 
 /*Section*/

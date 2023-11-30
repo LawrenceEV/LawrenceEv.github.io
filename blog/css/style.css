@@ -104,12 +104,13 @@ h1{
  }
 /*Nav*/
 a {
-    font-family: Rozhaone, sans-serif;
+    font-family: Ultra, serif;
     font-size: 1.5rem;
     color: #27476e;
-    border-top: 4rem;
-    border-bottom: 4rem;
-    border-color: black;
+    border-top: 3rem #333;
+    border-bottom: 3rem #333;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 /*Section*/
 

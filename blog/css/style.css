@@ -99,8 +99,8 @@ h1{
     text-align: center;
 }
 .highlight {
-    background-color: #27476e;
-    color: firebrick;
+    background-color: red;
+    color: peachpuff;
  }
 /*Nav*/
 a {

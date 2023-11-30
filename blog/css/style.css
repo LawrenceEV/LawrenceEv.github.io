@@ -98,6 +98,7 @@ h1{
     font-style: normal;
     text-align: center;
     border-bottom: .0625rem solid #333;
+    padding-bottom: .25rem;
 }
 .highlight {
     background-color: firebrick;

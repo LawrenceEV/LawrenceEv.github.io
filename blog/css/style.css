@@ -93,10 +93,10 @@ a{
 }
 /*Header*/
 h1{
-    font-size: 2rem;
+    font-size: 4rem;
     font-family: Lato, sans-serif;
     font-style: normal;
-    margin: 25% auto 25% auto;
+    text-align: center;
 }
 /*Nav*/
 

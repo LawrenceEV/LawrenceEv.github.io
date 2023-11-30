@@ -99,9 +99,8 @@ h1{
     text-align: center;
 }
 .highlight {
-    background-color: #333;
-    background: .25rem;
-    background-size: .25rem, .25rem;
+    background-color: #27476e;
+    background-size: auto;
     color: firebrick;
  }
 /*Nav*/

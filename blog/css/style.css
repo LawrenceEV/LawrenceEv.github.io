@@ -97,10 +97,12 @@ h1{
     font-family: Lato, sans-serif;
     font-style: normal;
     text-align: center;
+    border-bottom: .0625rem solid #333;
 }
 .highlight {
     background-color: firebrick;
     color: peachpuff;
+
     
  }
 
@@ -194,7 +196,6 @@ a {
     font-family: Ultra, serif;
     font-size: 1.25rem;
     color: #27476e;
-    border-top: .0625 solid #333;
     border-bottom: .0625rem solid #333;
     padding-left: 1.5rem;
     padding-right: 1.5rem;

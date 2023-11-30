@@ -103,7 +103,14 @@ h1{
     color: firebrick;
  }
 /*Nav*/
-
+a {
+    font-family: Rozhaone, sans-serif;
+    font-size: 1.5rem;
+    color: #27476e;
+    border-top: 4rem;
+    border-bottom: 4rem;
+    border-color: black;
+}
 /*Section*/
 
 .main-section{

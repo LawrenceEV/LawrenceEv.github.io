@@ -99,16 +99,17 @@ h1{
     text-align: center;
 }
 .highlight {
-    background-color: red;
+    background-color: firebrick;
     color: peachpuff;
+    
  }
 /*Nav*/
 a {
     font-family: Ultra, serif;
     font-size: 1.25rem;
     color: #27476e;
-    border-top: 1rem solid #333;
-    border-bottom: 1rem solid #333;
+    border-top: .0625 solid #333;
+    border-bottom: .0625rem solid #333;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     text-decoration: none;
